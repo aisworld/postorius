@@ -1,0 +1,2 @@
+# postorius
+The Postorius Django app provides a web user interface to access GNU Mailman.
